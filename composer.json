@@ -1,0 +1,25 @@
+{
+    "name": "kzykhys/super-cow-power",
+    "description": "There are no Easter Eggs in this framework",
+    "type": "symfony-bundle",
+    "license":"GPL-2.0",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Kazuyuki Hayashi",
+            "email": "hayashi@valnur.net"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "SuperCowPower\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dependency-injection":">2.3",
+        "symfony/http-kernel":">2.3",
+        "symfony/http-foundation":">2.3",
+        "symfony/console":">2.3",
+        "symfony/config":">2.3"
+    }
+}
