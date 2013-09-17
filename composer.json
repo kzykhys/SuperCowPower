@@ -2,7 +2,7 @@
     "name": "kzykhys/super-cow-power",
     "description": "There are no Easter Eggs in this framework",
     "type": "symfony-bundle",
-    "license":"GPL-2.0",
+    "license": "GPL-2.0",
     "minimum-stability": "stable",
     "authors": [
         {
