@@ -27,6 +27,11 @@ Usage
 
 hint: `php app/console help`
 
+Testing
+-------
+
+Run `phpunit`
+
 License
 -------
 
