@@ -1,7 +1,13 @@
 Provides Super Cow Power to your Symfony2
 =========================================
 
-There are no Easter Eggs in this framework.
+             (__)
+             (oo) <"There are no Easter Eggs in this framework."
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+
 
 Installation
 ------------
@@ -43,9 +49,9 @@ GPL-2.0
 ------
 
              (__)
-             (oo)
+             (oo) <"Have you mooed today?"
        /------\/
       / |    ||
      *  /\---/\
         ~~   ~~
-    ...."Have you mooed today?"...
+
