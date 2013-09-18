@@ -25,7 +25,7 @@ new SuperCowPower\Bundle\SuperCowBundle\SuperCowPowerSuperCowBundle();
 Usage
 -----
 
-hint: `php app/console help`
+Moo `php app/console help`
 
 Testing
 -------
@@ -36,3 +36,15 @@ License
 -------
 
 GPL-2.0
+
+------
+
+```
+         (__)
+         (oo)
+   /------\/
+  / |    ||
+ *  /\---/\
+    ~~   ~~
+...."Have you mooed today?"...
+```
