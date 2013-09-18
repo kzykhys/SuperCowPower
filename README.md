@@ -8,7 +8,7 @@ Installation
 
 Update your composer.json and run `php composer.phar update`
 
-```
+``` json
 {
     "require": {
         "kzykhys/super-cow-power": "~1.0"
@@ -18,8 +18,11 @@ Update your composer.json and run `php composer.phar update`
 
 Update your AppKernel.php
 
-```
-new SuperCowPower\Bundle\SuperCowBundle\SuperCowPowerSuperCowBundle();
+``` php
+if (in_array($this->getEnvironment(), array('dev', 'test'))) {
+    //...
+    $bundles[] = new SuperCowPower\Bundle\SuperCowBundle\SuperCowPowerSuperCowBundle();
+}
 ```
 
 Usage
@@ -39,12 +42,10 @@ GPL-2.0
 
 ------
 
-```
-         (__)
-         (oo)
-   /------\/
-  / |    ||
- *  /\---/\
-    ~~   ~~
-...."Have you mooed today?"...
-```
+             (__)
+             (oo)
+       /------\/
+      / |    ||
+     *  /\---/\
+        ~~   ~~
+    ...."Have you mooed today?"...
