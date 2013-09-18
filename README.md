@@ -1,5 +1,5 @@
-Provides Super Cow Power to your Symfony2
-=========================================
+Provides Super Cow Power to your Symfony2 Project
+=================================================
 
              (__)
              (oo) <"There are no Easter Eggs in this framework."
