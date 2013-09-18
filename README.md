@@ -1,6 +1,10 @@
 Provides Super Cow Power to your Symfony2 Project
 =================================================
 
+[![Latest Stable Version](https://poser.pugx.org/kzykhys/super-cow-power/v/stable.png)](https://packagist.org/packages/kzykhys/super-cow-power)
+[![Build Status](https://travis-ci.org/kzykhys/SuperCowPower.png?branch=master)](https://travis-ci.org/kzykhys/SuperCowPower)
+[![Coverage Status](https://coveralls.io/repos/kzykhys/SuperCowPower/badge.png)](https://coveralls.io/r/kzykhys/SuperCowPower)
+
              (__)
              (oo) <"There are no Easter Eggs in this framework."
        /------\/
